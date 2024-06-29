@@ -7,3 +7,4 @@ const id = setInterval(function(){
     clearInterval(id);
     }
 }, 1000);
+console.log('done');
